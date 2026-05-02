@@ -1,0 +1,33 @@
+# My Direct List
+# Last update: 2026-05-02
+
+# 奶昔
+DOMAIN-SUFFIX,nxonearth.com
+
+# rodonet
+DOMAIN-SUFFIX,radonet.co.uk
+
+# tokyonline
+DOMAIN-SUFFIX,tokyonline.com
+
+# 馒头
+DOMAIN-SUFFIX,m-team.cc
+
+# 花卷
+DOMAIN-SUFFIX,rfchost.com
+
+# po0
+DOMAIN-SUFFIX,po0.com
+
+# boil
+DOMAIN-SUFFIX,boil.network
+
+# oix
+DOMAIN-SUFFIX,oixcloud.com
+
+# kn4
+DOMAIN-SUFFIX,kn4.com
+
+IP-CIDR,182.171.80.195/32,no-resolve
+
+IP-CIDR,60.138.13.163/32,no-resolve
