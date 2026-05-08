@@ -28,6 +28,9 @@ DOMAIN-SUFFIX,oixcloud.com
 # kn4
 DOMAIN-SUFFIX,kn4.com
 
+# 喜鹊
+DOMAIN,4.emzkdqdhcb7s.hxc6ursnvyk1.223789.xyz 
+
 IP-CIDR,182.171.80.195/32,no-resolve
 
 IP-CIDR,60.138.13.163/32,no-resolve
