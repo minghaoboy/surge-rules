@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,rfchost.com
 DOMAIN-SUFFIX,po0.com
 
 # boil
-# DOMAIN-SUFFIX,boil.network
+DOMAIN-SUFFIX,boil.network
 
 # oix
 DOMAIN-SUFFIX,oixcloud.com
