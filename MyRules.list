@@ -31,7 +31,9 @@ DOMAIN-SUFFIX,kn4.com
 # youno
 DOMAIN-SUFFIX,567741.xyz
 # youno
-DOMAIN-SUFFIX,younopro.de 
+DOMAIN-SUFFIX,younopro.de
+# youno
+DOMAIN,hkco.s26u.net
 
 IP-CIDR,182.171.80.195/32,no-resolve
 
