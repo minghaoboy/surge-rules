@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,po0.com
 DOMAIN-SUFFIX,boil.network
 
 # oix
-DOMAIN-SUFFIX,oixcloud.com
+#DOMAIN-SUFFIX,oixcloud.com
 
 # kn4
 DOMAIN-SUFFIX,kn4.com
