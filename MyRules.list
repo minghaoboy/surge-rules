@@ -28,13 +28,8 @@ DOMAIN-SUFFIX,boil.network
 # kn4
 DOMAIN-SUFFIX,kn4.com
 
-# youno
-DOMAIN-SUFFIX,567741.xyz
-# youno
-DOMAIN-SUFFIX,younopro.de
-# youno
-DOMAIN,naiba.s26u.net
+
 
 IP-CIDR,182.171.80.195/32,no-resolve
 
-IP-CIDR,60.138.13.163/32,no-resolve
+
